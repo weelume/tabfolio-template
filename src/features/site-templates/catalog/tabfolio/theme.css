@@ -12,9 +12,9 @@
 /* 隔离官网的滚动条宽度，避免改变参考站各断点的可用内容宽度。 */
 html:has([data-template='tabfolio'])::-webkit-scrollbar,
 body:has([data-template='tabfolio'])::-webkit-scrollbar { width:15px; }
-[data-template='tabfolio'] .tf-weelume-entry { position:fixed; z-index:20; right:20px; bottom:18px; display:grid; place-items:center; width:42px; height:42px; border-radius:50%; background:#fff; box-shadow:0 8px 26px rgba(24,31,42,.14); transition:transform .2s ease, box-shadow .2s ease; }
-[data-template='tabfolio'] .tf-weelume-entry:hover { transform:translateY(-2px); box-shadow:0 12px 30px rgba(24,31,42,.2); }
-[data-template='tabfolio'] .tf-weelume-entry img { width:27px; height:27px; }
+[data-template='tabfolio'] .tf-market-entry { position:fixed; z-index:20; right:20px; bottom:18px; display:grid; place-items:center; width:42px; height:42px; border-radius:50%; background:#fff; box-shadow:0 8px 26px rgba(24,31,42,.14); transition:transform .2s ease, box-shadow .2s ease; }
+[data-template='tabfolio'] .tf-market-entry:hover { transform:translateY(-2px); box-shadow:0 12px 30px rgba(24,31,42,.2); }
+[data-template='tabfolio'] .tf-market-entry img { width:27px; height:27px; }
 [data-template='tabfolio'] .tf-aurora { position:absolute; z-index:0; inset:0 0 auto; height:350px; pointer-events:none; background:radial-gradient(ellipse at 57% -12%, #8950ff 0%, #b4a2ff 32%, #d3d5ff 60%, transparent 85%); mask-image:linear-gradient(#000 0%, #000 12%, transparent 100%),linear-gradient(30deg,transparent 25%,#000 65%); mask-composite:intersect; }
 [data-template='tabfolio'] .tf-header, [data-template='tabfolio'] main, [data-template='tabfolio'] .tf-footer { position:relative; z-index:1; width:calc(100% - 128px); max-width:1152px; margin:0 auto; }
 [data-template='tabfolio'] .tf-header { position:relative; display:flex; align-items:flex-start; justify-content:space-between; height:120px; box-sizing:border-box; padding:40px 0 0; }
