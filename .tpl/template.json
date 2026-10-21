@@ -1,0 +1,230 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "version": "1.0.0",
+  "id": "tabfolio",
+  "gitUrl": "https://github.com/weelume/tabfolio-template",
+  "name": "Tabfolio Pro · 设计师作品集",
+  "localizedNames": {
+    "en": "Tabfolio Pro · Designer portfolio"
+  },
+  "sceneId": "brand-portfolio",
+  "listed": false,
+  "tags": [
+    "浅色渐变",
+    "个人作品集",
+    "产品设计师",
+    "PC / iPad / H5",
+    "中英文官网"
+  ],
+  "summary": "参考 Tabfolio Pro 设计师作品集模板，包含项目、实验、关于、简历与项目案例详情页，支持响应式布局和中英文路径。",
+  "accentColor": "#8d72ff",
+  "cover": "assets/aviera.png",
+  "screenshots": [
+    {
+      "src": "assets/home.webp",
+      "alt": "Tabfolio 首页桌面端",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/experiments.webp",
+      "alt": "Tabfolio 实验页桌面端",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/about.webp",
+      "alt": "Tabfolio 关于页桌面端",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/contact.webp",
+      "alt": "Tabfolio 联系页桌面端",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "Tabfolio 首页平板端",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-experiments.webp",
+      "alt": "Tabfolio 实验页平板端",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-about.webp",
+      "alt": "Tabfolio 关于页平板端",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-contact.webp",
+      "alt": "Tabfolio 联系页平板端",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "Tabfolio 首页移动端",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-experiments.webp",
+      "alt": "Tabfolio 实验页移动端",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-about.webp",
+      "alt": "Tabfolio 关于页移动端",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-contact.webp",
+      "alt": "Tabfolio 联系页移动端",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site",
+      "pageSlug": ""
+    }
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "设计师作品集官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "项目",
+          "localizedTitles": {
+            "en": "Projects"
+          }
+        },
+        {
+          "slug": "experiments",
+          "title": "实验",
+          "localizedTitles": {
+            "en": "Experiments"
+          }
+        },
+        {
+          "slug": "about",
+          "title": "关于",
+          "localizedTitles": {
+            "en": "About"
+          }
+        },
+        {
+          "slug": "resume",
+          "title": "简历",
+          "localizedTitles": {
+            "en": "Resume"
+          }
+        },
+        {
+          "slug": "contact",
+          "title": "联系",
+          "localizedTitles": {
+            "en": "Contact"
+          }
+        },
+        {
+          "slug": "privacy-policy",
+          "title": "隐私政策",
+          "localizedTitles": {
+            "en": "Privacy policy"
+          }
+        },
+        {
+          "slug": "terms-of-service",
+          "title": "服务条款",
+          "localizedTitles": {
+            "en": "Terms of service"
+          }
+        },
+        {
+          "slug": "case-studies/aviera-financial-dashboard",
+          "title": "Aviera 金融看板",
+          "localizedTitles": {
+            "en": "Aviera financial dashboard"
+          }
+        },
+        {
+          "slug": "case-studies/music-discovery-app",
+          "title": "Lumix 音乐发现",
+          "localizedTitles": {
+            "en": "Lumix music discovery"
+          }
+        },
+        {
+          "slug": "case-studies/designing-a-portfolio-system",
+          "title": "作品集系统",
+          "localizedTitles": {
+            "en": "Portfolio system"
+          }
+        },
+        {
+          "slug": "case-studies/expanding-aviera-for-finance-teams",
+          "title": "Aviera 团队版",
+          "localizedTitles": {
+            "en": "Aviera for finance teams"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "restricted",
+    "file": "docs/LICENSE.md",
+    "summary": "参考素材权利归原作者，商业使用及再分发授权待确认。",
+    "redistributionAllowed": false
+  }
+}

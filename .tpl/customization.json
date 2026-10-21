@@ -1,0 +1,107 @@
+{
+  "$schema": "./schemas/customization.schema.json",
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌与 Logo",
+      "description": "品牌与 Logo",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/tabfolio/config/brand.ts",
+          "kind": "file",
+          "purpose": "品牌与 Logo"
+        }
+      ],
+      "constraints": [
+        "保持中英文与响应式布局。",
+        "不新增外部发送；品牌集中配置。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "双语数据与案例",
+      "description": "双语数据与案例",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/tabfolio/data.ts",
+          "kind": "file",
+          "purpose": "双语数据与案例"
+        }
+      ],
+      "constraints": [
+        "保持中英文与响应式布局。",
+        "不新增外部发送；品牌集中配置。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "颜色、字体与响应式",
+      "description": "颜色、字体与响应式",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/tabfolio/theme.css",
+          "kind": "file",
+          "purpose": "颜色、字体与响应式"
+        }
+      ],
+      "constraints": [
+        "保持中英文与响应式布局。",
+        "不新增外部发送；品牌集中配置。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint"
+      ]
+    },
+    {
+      "id": "pages",
+      "title": "页面组合与注册",
+      "description": "页面组合与注册",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/tabfolio/pages",
+          "kind": "directory",
+          "purpose": "页面组合与注册"
+        }
+      ],
+      "constraints": [
+        "保持中英文与响应式布局。",
+        "不新增外部发送；品牌集中配置。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint"
+      ]
+    },
+    {
+      "id": "components",
+      "title": "公共组件与交互",
+      "description": "公共组件与交互",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/tabfolio/components",
+          "kind": "directory",
+          "purpose": "公共组件与交互"
+        }
+      ],
+      "constraints": [
+        "保持中英文与响应式布局。",
+        "不新增外部发送；品牌集中配置。"
+      ],
+      "checks": [
+        "typecheck",
+        "lint"
+      ]
+    }
+  ]
+}

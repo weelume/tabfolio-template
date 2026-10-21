@@ -1,0 +1,522 @@
+{
+  "id": "tabfolio",
+  "host": false,
+  "checkedAt": "2026-10-21T02:41:56.660Z",
+  "http": [
+    {
+      "locale": "zh",
+      "slug": "",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "experiments",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "about",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "resume",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "contact",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "privacy-policy",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "terms-of-service",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "case-studies/aviera-financial-dashboard",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "case-studies/music-discovery-app",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "case-studies/designing-a-portfolio-system",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "case-studies/expanding-aviera-for-finance-teams",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "experiments",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "about",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "resume",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "contact",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "privacy-policy",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "terms-of-service",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "case-studies/aviera-financial-dashboard",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "case-studies/music-discovery-app",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "case-studies/designing-a-portfolio-system",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "case-studies/expanding-aviera-for-finance-teams",
+      "status": 200
+    }
+  ],
+  "rows": [
+    {
+      "slug": "",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "experiments",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "about",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "resume",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "contact",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "privacy-policy",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "terms-of-service",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "case-studies/aviera-financial-dashboard",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "experiments",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "about",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "resume",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "contact",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "privacy-policy",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "terms-of-service",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "case-studies/aviera-financial-dashboard",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "experiments",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "about",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "resume",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "contact",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "privacy-policy",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "terms-of-service",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "case-studies/aviera-financial-dashboard",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "experiments",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "about",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "resume",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "contact",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "privacy-policy",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "terms-of-service",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "case-studies/aviera-financial-dashboard",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    }
+  ],
+  "interactions": [
+    {
+      "name": "语言切换可打开英文首页",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "联系表单拒绝空值",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "有效内容通过本地校验并显示结果",
+      "passed": true,
+      "value": true
+    }
+  ],
+  "errors": [],
+  "failures": []
+}

@@ -1,0 +1,85 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-10-21T02:44:25.510Z",
+  "sourceCommit": null,
+  "sourceDigest": "52d06cf0a69389423b89ccfa9a90d3e11f3030f0dfc23eadc8de48fd3b90545a",
+  "environment": {
+    "platform": "linux",
+    "arch": "x64",
+    "node": "24.16.0",
+    "packageManager": "pnpm@12.10.1",
+    "cleanDirectory": true,
+    "localGitClone": false
+  },
+  "checks": [
+    {
+      "id": "typecheck",
+      "status": "passed",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "startedAt": "2026-10-21T02:37:16.255Z",
+      "finishedAt": "2026-10-21T02:37:18.135Z",
+      "exitCode": 0
+    },
+    {
+      "id": "lint",
+      "status": "passed",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "startedAt": "2026-10-21T02:37:18.137Z",
+      "finishedAt": "2026-10-21T02:37:19.924Z",
+      "exitCode": 0
+    },
+    {
+      "id": "test",
+      "status": "passed",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "startedAt": "2026-10-21T02:37:19.924Z",
+      "finishedAt": "2026-10-21T02:37:20.408Z",
+      "exitCode": 0
+    },
+    {
+      "id": "build",
+      "status": "passed",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "startedAt": "2026-10-21T02:37:20.408Z",
+      "finishedAt": "2026-10-21T02:37:36.355Z",
+      "exitCode": 0
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "stopped": true,
+      "checkedAt": "2026-10-21T02:41:56.660Z"
+    }
+  ],
+  "limitations": [
+    "在本地 WSL Linux 文件系统安装及构建，未在远端构建。",
+    "增量验收：HTTP 覆盖本模板全部双语注册路由；浏览器覆盖不同页面实现、一个生成详情样本、桌面及手机视口。未重验其他模板；未穷举所有生成详情的视口组合。",
+    "使用 Windows 本机 Chrome 访问本地 WSL 生产产物；未执行远端全新克隆安装、Docker 或真实业务发送。",
+    "表单为本地演示；参考素材商业及再分发授权待确认，未部署。"
+  ]
+}
